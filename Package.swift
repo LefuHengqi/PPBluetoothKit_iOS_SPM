@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PPBluetoothKit",
-            url: "https://github.com/LefuHengqi/PPBluetoothKit_iOS_SPM/releases/download/1.2.49/PPBluetoothKit-1.2.49.xcframework.zip",
-            checksum: "d870fb2c36594183a8ac39980651f730fc5e526480744def973c7ee3ff2d9b49"
+            url: "https://github.com/LefuHengqi/PPBluetoothKit_iOS_SPM/releases/download/1.2.50/PPBluetoothKit-1.2.50.xcframework.zip",
+            checksum: "1a814a0c329a6800685087623998c945c8fd73635b24f8bfe343c26abed5f15e"
         )
     ]
 )
